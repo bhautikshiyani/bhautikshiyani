@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **bhautik4physics@gmail.com**
 
--  📫 Business chat **reactbd@proton.me**
-
 - 📄 Best way to master the code is handle the [Error] efficiently.
 
 - 📄 Know about my experiences [https://bhautik-portfolio.vercel.app/](https://bhautik-portfolio.vercel.app/))
